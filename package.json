@@ -1,13 +1,13 @@
 {
-  "name": "revo-calendar",
-  "version": "3.2.3",
-  "description": "React Event Calendar Component",
+  "name": "wish-calendar",
+  "version": "3.2.4",
+  "description": "React Event Calendar Component - WISH Version",
   "author": {
-    "name": "Gabriel Molter",
-    "url": "https://gabrielmolter.com/"
+    "name": "Gabriel Molter, Amit Dubey",
+    "url": "https://ww-hub.com/"
   },
   "license": "MIT",
-  "repository": "gjmolter/revo-calendar",
+  "repository": "https://github.com/WinworldHUB/wish-calendar",
   "main": "dist/index.js",
   "module": "dist/index.js",
   "source": "src/index.tsx",
@@ -16,7 +16,7 @@
     "test-coverage": "jest --coverage",
     "build": "rollup -c"
   },
-  "homepage": "https://gjmolter.github.io/revo-calendar/",
+  "homepage": "https://ww-hub.com/",
   "keywords": [
     "event",
     "calendar",
